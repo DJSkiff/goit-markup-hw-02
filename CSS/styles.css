@@ -55,7 +55,6 @@ a {
   background-color: #2f303a;
   padding-left: auto;
   padding-right: auto;
-  outline: 1px solid tomato;
 }
 
 .hero h1 {
@@ -142,8 +141,6 @@ h2 {
 .team {
   padding: 94px 15px;
   background-color: #f5f4fa;
-
-  outline: 1px solid tomato;
 }
 
 figure {
