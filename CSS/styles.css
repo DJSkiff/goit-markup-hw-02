@@ -1,7 +1,5 @@
 html {
   font-family: "Roboto", sans-serif;
-  width: 1600px;
-  margin: 0 auto;
 }
 
 a {
@@ -12,23 +10,12 @@ a {
   font-size: 14px;
 }
 
-.header-conteiner {
-  padding: 24px 15px;
-}
-
-.main-width {
-  margin-left: auto;
-  margin-right: auto;
-  width: 1200px;
-}
-
 .nav {
   font-weight: 500;
   font-size: 14px;
 }
 .nav a {
   color: black;
-  margin-right: 50px;
   text-transform: capitalize;
 }
 
@@ -42,10 +29,6 @@ a {
   color: #757575;
 }
 
-.address a:last-child {
-  margin-left: 50px;
-}
-
 .address a:hover,
 :focus {
   color: #2196f3;
@@ -53,8 +36,6 @@ a {
 
 .hero {
   background-color: #2f303a;
-  padding-left: auto;
-  padding-right: auto;
 }
 
 .hero h1 {
@@ -64,16 +45,11 @@ a {
   color: #ffffff;
   font-weight: 900;
   font-style: normal;
-  margin: 0;
-  margin-bottom: 30px;
   letter-spacing: 2px;
 }
 
 .hero div {
   text-align: center;
-  padding: 200px;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 .button {
@@ -82,30 +58,14 @@ a {
   font-weight: bold;
   border-radius: 4px;
   color: #ffffff;
-  padding: 10px 32px;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
 }
 ul {
-  margin: 0;
-  padding: 0;
   list-style-type: none;
 }
 
 h2 {
   display: none;
-}
-
-.futures {
-  padding: 94px 15px;
-}
-
-.futures-conteiner {
-  margin-bottom: 94px;
-}
-
-.futures-conteiner p {
-  margin: 0;
-  margin-bottom: 10px;
 }
 
 .futures-conteiner li {
@@ -119,19 +79,9 @@ h2 {
   letter-spacing: 0.06 em;
 }
 
-.futures li {
-  margin: 0;
-  /* width: 270px; */
-}
-
 .futures p {
   font-weight: 700;
   text-transform: uppercase;
-}
-
-.futures h3 {
-  margin: 0;
-  margin-bottom: 50px;
 }
 
 .what-we-do {
@@ -139,13 +89,11 @@ h2 {
 }
 
 .team {
-  padding: 94px 15px;
   background-color: #f5f4fa;
 }
 
 figure {
   width: 270px;
-  margin: 0;
   background-color: #ffffff;
   border-radius: 0px 0px 4px 4px;
   box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14),
@@ -154,7 +102,6 @@ figure {
 
 figcaption {
   text-align: center;
-  padding: 30px;
 }
 
 .team h3 {
@@ -163,7 +110,6 @@ figcaption {
 }
 
 .team p {
-  margin: 0;
   font-size: 16px;
   font-weight: bold;
 }
@@ -188,19 +134,12 @@ figcaption {
   border-radius: 4px;
 }
 
-.portfolio-conteiner {
-  padding: 94px 15px;
-}
-
 .portfolio figure {
   width: 370px;
-  border: 1px solid #eeeeee;
 }
 
 .portfolio figcaption {
   text-align: left;
-  margin: 0;
-  padding: 20px 24 px;
 }
 
 .portfolio p {
@@ -213,7 +152,6 @@ figcaption {
 
 .filter button {
   background-color: #f5f4fa;
-  padding: 6px 22px;
 }
 
 footer {
@@ -229,19 +167,13 @@ footer {
 .footer-address a {
   display: inline-block;
   color: rgba(255, 255, 255, 0.6);
-  margin-bottom: 9px;
 }
 
 .footer-address span {
   display: inline-block;
-  margin-bottom: 9px;
 }
 
 .footer-address a:hover,
 :focus {
   color: #2196f3;
-}
-
-.logo {
-  padding-bottom: 20px;
 }
